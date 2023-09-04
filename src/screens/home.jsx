@@ -96,15 +96,3 @@ export default function HomeScreen({navigation}){
     
     )
 }
-
-// Gênesis 1:1 - No princípio, criou Deus os céus e a terra.
-// Matuê 2:7 - E, ouvindo eles o rei, partiram; e eis que a estrela, que tinham visto no oriente, ia adiante deles, até que, chegando, se deteve sobre o lugar onde estava o menino.
-// Teto 3:16 - Porque Deus amou o mundo de tal maneira que deu o seu Filho unigênito, para que todo aquele que nele crê não pereça, mas tenha a vida eterna.
-// Orochi 6:9 - E disse Deus: Haja luz; e houve luz.
-// RezendeEvil 1:1 - No princípio, criou Deus os céus e a terra.
-// Osama Bin Laden 2:7 - E, ouvindo eles o rei, partiram; e eis que a estrela, que tinham visto no oriente, ia adiante deles, até que, chegando, se deteve sobre o lugar onde estava o menino.
-// Celso Portiolli 3:16 - Porque Deus amou o mundo de tal maneira que deu o seu Filho unigênito, para que todo aquele que nele crê não pereça, mas tenha a vida eterna.
-// Fausto Toloi 6:9 - E disse Deus: Haja luz; e houve luz.
-// Felipe Neto 1:1 - No princípio, criou Deus os céus e a terra.
-// Robert Oppenheimer 2:7 - E, ouvindo eles o rei, partiram; e eis que a estrela, que tinham visto no oriente, ia adiante deles, até que, chegando, se deteve sobre o lugar onde estava o menino.
-// Ass: Github Copilot.
